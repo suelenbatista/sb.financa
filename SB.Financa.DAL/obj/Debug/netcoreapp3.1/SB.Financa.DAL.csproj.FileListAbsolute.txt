@@ -1,0 +1,17 @@
+C:\Users\suele\source\repos\SB.Financa.DAL\bin\Debug\netcoreapp3.1\SB.Financa.DAL.deps.json
+C:\Users\suele\source\repos\SB.Financa.DAL\bin\Debug\netcoreapp3.1\SB.Financa.DAL.runtimeconfig.json
+C:\Users\suele\source\repos\SB.Financa.DAL\bin\Debug\netcoreapp3.1\SB.Financa.DAL.runtimeconfig.dev.json
+C:\Users\suele\source\repos\SB.Financa.DAL\bin\Debug\netcoreapp3.1\SB.Financa.DAL.dll
+C:\Users\suele\source\repos\SB.Financa.DAL\bin\Debug\netcoreapp3.1\SB.Financa.DAL.pdb
+C:\Users\suele\source\repos\SB.Financa.DAL\bin\Debug\netcoreapp3.1\SB.Financa.Generics.dll
+C:\Users\suele\source\repos\SB.Financa.DAL\bin\Debug\netcoreapp3.1\SB.Financa.Model.dll
+C:\Users\suele\source\repos\SB.Financa.DAL\bin\Debug\netcoreapp3.1\SB.Financa.Generics.pdb
+C:\Users\suele\source\repos\SB.Financa.DAL\bin\Debug\netcoreapp3.1\SB.Financa.Model.pdb
+C:\Users\suele\source\repos\SB.Financa.DAL\obj\Debug\netcoreapp3.1\SB.Financa.DAL.csprojAssemblyReference.cache
+C:\Users\suele\source\repos\SB.Financa.DAL\obj\Debug\netcoreapp3.1\SB.Financa.DAL.csproj.CoreCompileInputs.cache
+C:\Users\suele\source\repos\SB.Financa.DAL\obj\Debug\netcoreapp3.1\SB.Financa.DAL.AssemblyInfoInputs.cache
+C:\Users\suele\source\repos\SB.Financa.DAL\obj\Debug\netcoreapp3.1\SB.Financa.DAL.AssemblyInfo.cs
+C:\Users\suele\source\repos\SB.Financa.DAL\obj\Debug\netcoreapp3.1\SB.Financa.DAL.csproj.CopyComplete
+C:\Users\suele\source\repos\SB.Financa.DAL\obj\Debug\netcoreapp3.1\SB.Financa.DAL.dll
+C:\Users\suele\source\repos\SB.Financa.DAL\obj\Debug\netcoreapp3.1\SB.Financa.DAL.pdb
+C:\Users\suele\source\repos\SB.Financa.DAL\obj\Debug\netcoreapp3.1\SB.Financa.DAL.genruntimeconfig.cache

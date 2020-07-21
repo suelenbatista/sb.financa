@@ -1,0 +1,12 @@
+C:\Users\suele\source\repos\SB.Financa.Generics\bin\Debug\netcoreapp3.1\SB.Financa.Generics.deps.json
+C:\Users\suele\source\repos\SB.Financa.Generics\bin\Debug\netcoreapp3.1\SB.Financa.Generics.dll
+C:\Users\suele\source\repos\SB.Financa.Generics\bin\Debug\netcoreapp3.1\SB.Financa.Generics.pdb
+C:\Users\suele\source\repos\SB.Financa.Generics\bin\Debug\netcoreapp3.1\SB.Financa.Model.dll
+C:\Users\suele\source\repos\SB.Financa.Generics\bin\Debug\netcoreapp3.1\SB.Financa.Model.pdb
+C:\Users\suele\source\repos\SB.Financa.Generics\obj\Debug\netcoreapp3.1\SB.Financa.Generics.csprojAssemblyReference.cache
+C:\Users\suele\source\repos\SB.Financa.Generics\obj\Debug\netcoreapp3.1\SB.Financa.Generics.csproj.CoreCompileInputs.cache
+C:\Users\suele\source\repos\SB.Financa.Generics\obj\Debug\netcoreapp3.1\SB.Financa.Generics.AssemblyInfoInputs.cache
+C:\Users\suele\source\repos\SB.Financa.Generics\obj\Debug\netcoreapp3.1\SB.Financa.Generics.AssemblyInfo.cs
+C:\Users\suele\source\repos\SB.Financa.Generics\obj\Debug\netcoreapp3.1\SB.Financa.Generics.csproj.CopyComplete
+C:\Users\suele\source\repos\SB.Financa.Generics\obj\Debug\netcoreapp3.1\SB.Financa.Generics.dll
+C:\Users\suele\source\repos\SB.Financa.Generics\obj\Debug\netcoreapp3.1\SB.Financa.Generics.pdb

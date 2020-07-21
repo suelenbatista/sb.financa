@@ -1,0 +1,9 @@
+C:\Users\suele\source\repos\SB.Financa.Model\bin\Debug\netcoreapp3.1\SB.Financa.Model.deps.json
+C:\Users\suele\source\repos\SB.Financa.Model\bin\Debug\netcoreapp3.1\SB.Financa.Model.dll
+C:\Users\suele\source\repos\SB.Financa.Model\bin\Debug\netcoreapp3.1\SB.Financa.Model.pdb
+C:\Users\suele\source\repos\SB.Financa.Model\obj\Debug\netcoreapp3.1\SB.Financa.Model.csprojAssemblyReference.cache
+C:\Users\suele\source\repos\SB.Financa.Model\obj\Debug\netcoreapp3.1\SB.Financa.Model.csproj.CoreCompileInputs.cache
+C:\Users\suele\source\repos\SB.Financa.Model\obj\Debug\netcoreapp3.1\SB.Financa.Model.AssemblyInfoInputs.cache
+C:\Users\suele\source\repos\SB.Financa.Model\obj\Debug\netcoreapp3.1\SB.Financa.Model.AssemblyInfo.cs
+C:\Users\suele\source\repos\SB.Financa.Model\obj\Debug\netcoreapp3.1\SB.Financa.Model.dll
+C:\Users\suele\source\repos\SB.Financa.Model\obj\Debug\netcoreapp3.1\SB.Financa.Model.pdb

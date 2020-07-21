@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SB.Financa.Generics/1.0.0": {
+        "dependencies": {
+          "SB.Financa.Model": "1.0.0"
+        },
+        "runtime": {
+          "SB.Financa.Generics.dll": {}
+        }
+      },
+      "SB.Financa.Model/1.0.0": {
+        "runtime": {
+          "SB.Financa.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SB.Financa.Generics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SB.Financa.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
